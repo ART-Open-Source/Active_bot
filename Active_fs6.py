@@ -3,7 +3,7 @@ from discord_webhook import DiscordEmbed
 from discord_webhook import DiscordWebhook
 tell_tokin = ""
 id_tell = ""
-web_hook = "https://discord.com/api/webhooks/797941123938779156/wrofphvGUvuiL8uKojXpCsszyOR7gkBg283YuVyAKI-h8kHZ0rq4z1RuRyDK7OyYvAGO"
+web_hook = ""
 def Active_fs6():
     qq = requests.session()
     hostname = socket.gethostname()
